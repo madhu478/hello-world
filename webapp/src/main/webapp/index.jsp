@@ -7,3 +7,4 @@
 <h2> sucessfully deploying and continous integration done </h2>
 <h2> This is done through ansible </h2>
 <h2> ansible and tomcat sucess </h2>
+<h2> through docker is also sucess </h2>
