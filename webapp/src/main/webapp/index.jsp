@@ -6,3 +6,4 @@
 <h2> thanks for following us </h2>
 <h2> sucessfully deploying and continous integration done </h2>
 <h2> This is done through ansible </h2>
+<h2> ansible and tomcat sucess </h2>
