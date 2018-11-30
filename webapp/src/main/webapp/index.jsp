@@ -6,3 +6,4 @@
 <h2> thanks for following us </h2>
 <h2> sucessfully deploying and continous integration done </h2>
 <h2> sucessfully deployed using tomcat </h2>
+<h2> sucessfully deployed using ansible </h2>
